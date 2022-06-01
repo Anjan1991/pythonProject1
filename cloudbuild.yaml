@@ -18,4 +18,4 @@ steps:
   - run
   - --filename=k8s/
   - --location=us-west1-b
-  - --cluster=kubernetes-projectv2
+  - --cluster=kubernetes-projectv3
