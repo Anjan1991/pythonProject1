@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: ml-app
-        image: gcr.io/${PROJECT_ID}/myapp:v1
+        image: gcr.io/neat-throne-343419/myapp:v1
         ports:
         - containerPort: 8080
